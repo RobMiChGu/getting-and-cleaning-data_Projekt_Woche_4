@@ -20,22 +20,20 @@ R-Code "run_analysis.R" beinhaltet:
 - Beschriften Sie den Datensatz entsprechend mit beschreibenden Variablennamen.
 - Erstellt aus dem Datensatz in Schritt 4 einen zweiten, unabhängigen, aufgeräumten Datensatz mit dem Durchschnitt jeder Variablen für jede Aktivität und jedes Thema.
 
+.
+.
+R-Script Code Dokumentation, step by step
 
--
-# lese die Merkmale ein
-# lese die Testdaten ein
-# lese die Trainingsdaten ein
+lese die Merkmale ein
+lese die Testdaten ein
+lese die Trainingsdaten ein
 
--
-# Kombiniere die Trainings- und Testdaten
+Kombiniere die Trainings- und Testdaten
 
--
-# Filtere nur die Spalten für Mittelwert und Standardabweichung
+Filtere nur die Spalten für Mittelwert und Standardabweichung
 
--
-# Füge Aktivitätsbezeichnungen hinzu
+Füge Aktivitätsbezeichnungen hinzu
 
--
-# Berechne den Durchschnitt für jede Kombination von subjectID und activityID
-# Sortiere das Ergebnis nach subjectID und activityID
-# Schreibe das Ergebnis in eine Textdatei "tidySet.txt
+Berechne den Durchschnitt für jede Kombination von subjectID und activityID
+Sortiere das Ergebnis nach subjectID und activityID
+Schreibe das Ergebnis in eine Textdatei "tidySet.txt
