@@ -14,6 +14,9 @@ You will be required to submit:
 You should also include a README.md in the repo with your scripts. 
 This repo explains how all of the scripts work and how they are connected.
 
+## dataset
+http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+
 ## Files:
 CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
 
